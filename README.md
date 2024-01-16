@@ -5,3 +5,5 @@ this is readme information for first project
 abcdefgh this is going to new branch
 
 # header
+
+This class is hard for me now but i will learn it 
